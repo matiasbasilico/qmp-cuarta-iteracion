@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/Users/matias/Documents/2021/DDS/qmp-cuarta-iteracion/src/main/java/prenda/Atuendo.java">
+</file>
+<file name="/Users/matias/Documents/2021/DDS/qmp-cuarta-iteracion/src/main/java/prenda/Categoria.java">
+</file>
+<file name="/Users/matias/Documents/2021/DDS/qmp-cuarta-iteracion/src/main/java/prenda/Prenda.java">
+<error line="14" column="50" severity="warning" message="WhitespaceAround: &apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="/Users/matias/Documents/2021/DDS/qmp-cuarta-iteracion/src/main/java/clima/Clima.java">
+</file>
+<file name="/Users/matias/Documents/2021/DDS/qmp-cuarta-iteracion/src/main/java/clima/AccuWeatherAPI.java">
+<error line="9" column="20" severity="warning" message="Abreviatura en nombre &apos;AccuWeatherAPI&apos; debe contener no más de &apos;2&apos; mayúsculas." source="com.puppycrawl.tools.checkstyle.checks.naming.AbbreviationAsWordInNameCheck"/>
+<error line="11" column="3" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="12" column="55" severity="warning" message="WhitespaceAround: &apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="13" severity="warning" message="&apos;block&apos; hijo tiene nivel de sangría incorrecta 6, el nivel esperado debería ser uno de los siguientes: 8, 10, 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="14" severity="warning" message="&apos;block&apos; hijo tiene nivel de sangría incorrecta 6, el nivel esperado debería ser uno de los siguientes: 8, 10, 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="15" severity="warning" message="&apos;block&apos; hijo tiene nivel de sangría incorrecta 6, el nivel esperado debería ser uno de los siguientes: 8, 10, 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="16" severity="warning" message="&apos;block&apos; hijo tiene nivel de sangría incorrecta 6, el nivel esperado debería ser uno de los siguientes: 8, 10, 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="17" severity="warning" message="&apos;block&apos; hijo tiene nivel de sangría incorrecta 6, el nivel esperado debería ser uno de los siguientes: 8, 10, 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="18" severity="warning" message="&apos;block&apos; hijo tiene nivel de sangría incorrecta 6, el nivel esperado debería ser uno de los siguientes: 8, 10, 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="19" severity="warning" message="&apos;block&apos; hijo tiene nivel de sangría incorrecta 6, el nivel esperado debería ser uno de los siguientes: 8, 10, 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="20" severity="warning" message="&apos;block&apos; hijo tiene nivel de sangría incorrecta 6, el nivel esperado debería ser uno de los siguientes: 8, 10, 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="21" severity="warning" message="&apos;block&apos; hijo tiene nivel de sangría incorrecta 6, el nivel esperado debería ser uno de los siguientes: 8, 10, 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="21" column="55" severity="warning" message="WhitespaceAround: &apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="22" severity="warning" message="&apos;block&apos; hijo tiene nivel de sangría incorrecta 8, el nivel esperado debería ser uno de los siguientes: 10, 12, 14." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="23" severity="warning" message="&apos;block&apos; hijo tiene nivel de sangría incorrecta 8, el nivel esperado debería ser uno de los siguientes: 10, 12, 14." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="24" severity="warning" message="&apos;block&apos; hijo tiene nivel de sangría incorrecta 8, el nivel esperado debería ser uno de los siguientes: 10, 12, 14." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="25" severity="warning" message="&apos;block rcurly&apos; tienen nivel de sangría incorrecta 6, el nivel esperado debería ser uno de los siguientes: 8, 10." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="25" column="7" severity="warning" message="&apos;}&apos; en la columna 7 debería estar solo en una línea." source="RightCurlyAlone"/>
+<error line="26" severity="warning" message="&apos;block rcurly&apos; tienen nivel de sangría incorrecta 4, el nivel esperado debería ser uno de los siguientes: 6, 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="26" column="5" severity="warning" message="&apos;}&apos; en la columna 5 debería estar solo en una línea." source="RightCurlyAlone"/>
+</file>
+<file name="/Users/matias/Documents/2021/DDS/qmp-cuarta-iteracion/src/main/java/clima/ServicioMeteorologico.java">
+</file>
+</checkstyle>
